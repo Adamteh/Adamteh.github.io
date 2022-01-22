@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kakraba-ldcg",
+  "private_key_id": "7dcd38e02ff6d1db472e7865035d7de81d793bba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrZOnDny9F+rJg\n0VqGn3GSaEpBDXNcpPnJ766tTE7ZQPMwKbQxlqipKgjzYdGPkyAAgD0ZmsBKgwjB\nQZEtLg8JvJ/4XSk4msBP0CPixE9MqSDd6nUunxPUWCAXeNBlYVTDF2cfKrvXMLbm\nTk/fm44haC6HWGNj3MwrE9RnN/jZowZ324qlZEGV8R8efqaWLA05o5HtXDS8ZtYq\nkt3pmCblJ2nYFrQYIzVuCVfSeyd/05JJumghNLwbfFR5sx95RDnmLbW57l/LBCvy\nffMlGmJVfEjBVi6y7URvG9NvDb0sDhTxkqE4n8Ia9iJsmn8J51iVzdi9mLNsrTiD\nhiW6BTtJAgMBAAECggEADXhVvWm5MsYiRwTpGQ+2oq+m11A97uvp1D6tsyG+SCmI\nO1KpvmR1bq8Wqz8Ws9KXpyZs9uJQRsLf2SVkqiD2rliYV3IF63SRFOy6J0gvpcoc\ngshai46VxcBjzEhy02bn/RmtoXfPsbi6xSSmNyAP9mzsTDeMfySTGLcbID4YRQ1f\nhKUjLbhOzmTPzYSr0TVAbNvwj3tvSCk8oxLWIGVx7GmRjZp3NwXwQti4Q7j+Kwg5\n/RZxdYPCmWkLPfoUTD8wQezvay3NQm5zS36tSEm5WlPz3ZpZMpl0RFrszA2sRT90\ngsZcQcpbyIQ7V71JSXvPAdWH1MNw9QQ5aqM2bus14QKBgQDlfeLv89KK7nAS6mXJ\ncpBSRXDgfoK5N9ipbZzlTG2OU3Zk5pN5xrKvs2vdDK0XT6qJ8bwiqnmNyqoPCl04\nzCjUpbCdhzEvFSyYcMtKOLgyS3MqG8HL3D0xyFHQ4Glde6pGZ5gGQI/TghON97Ve\nyOWezK6sARWL137zF2avj4OT4QKBgQC/MRI9scy78Z+kcFzqPeQz4ATrwCamxeUV\ncXUgJacV2hPhNG+1uwG1X5xGZSUtyoLU+QiNH/B5pnurSxlGZMPxgdzsQV2SUJmE\nb9/prnjoP00/DNnpVJ1N5oEwHfSCb2YJaa9N3ct5rYRk4VCoDzMq/r4vI3hqAZxQ\n+QFIRYAUaQKBgQDOV4gq1AIkpQrkFxl6LaYSMxmw4E9Nlica/9GoYjXHWMgFJUTI\no52aWSrM0E75vMnLyiysxrcQhH6vk1QKc5bqzCenHB1fBhzY2+INVD5aCnj8DYUM\ndXQYRNM7ietzAHQzZYXNaVNoi3ZlmancFapQRB1xzm+/Ev20OQA9Lj7SQQKBgHqi\nijXCdzVSffjnDeI+QsM3fVCOlvxAUXnYpa0yGaN9l2TL0p+5zRW+tym8NQXTMOpU\ntrR2+TO+ovKzoAm0Fq8xgjiUkOWKB36YmAJ3JByshercXmY5HRFbuh/YBv8nX0bI\nYGbMznhE4XgnwimaXlLExc7MrK8qS07w+W6XDdmJAoGAV3zwRxQOGUhj58VorPyW\nu2LOdN71oa70rcgP3OyMcEF3Fy82EEydUAqVpwmiVi13BfyouQfkDI0bh7uYXllP\nvFiQL/4QxRsa53I2K8kTQ3KS0auK0J30gWXzP6XJswTLX/qpQB6toOmKNG88hGa8\noO0StTOvY0v3EamjSO6vB8k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kakraba@kakraba-ldcg.iam.gserviceaccount.com",
+  "client_id": "110203564185293626539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kakraba%40kakraba-ldcg.iam.gserviceaccount.com"
+}
