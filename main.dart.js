@@ -47046,8 +47046,8 @@ return A.G($async$Cx,r)},
 CJ(){var s=0,r=A.H(t.z)
 var $async$CJ=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:s=2
-return A.L(A.e7(A.cp("https://www.linkedin.com/in/adam-nsiah-543179170/",0,null)),$async$CJ)
-case 2:if(!b)throw A.c("Could not launch https://www.linkedin.com/in/adam-nsiah-543179170/")
+return A.L(A.e7(A.cp("https://www.linkedin.com/in/adamnsiah",0,null)),$async$CJ)
+case 2:if(!b)throw A.c("Could not launch https://www.linkedin.com/in/adamnsiah")
 return A.F(null,r)}})
 return A.G($async$CJ,r)}}
 A.rC.prototype={}
